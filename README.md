@@ -1,6 +1,6 @@
 ### Hi, I'm Pablo! 👋
-I am a web developer from Santa Clara del Mar, Argentina, who likes making things that live inside screens :computer: :iphone:
-When I'm not tending to my family, you'd normally find me dabbling around buttons, responsive layouts and http requests. 
+I am a web developer from Santa Clara del Mar, Argentina.
+When I'm not tending to my family, you'd normally find me dabbling around buttons, responsive layouts and http requests. :computer: :iphone:
 
 
 #### Right now :fire:
