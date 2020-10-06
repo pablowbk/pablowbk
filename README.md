@@ -8,7 +8,7 @@ I am working as a freelance dev for a local company, helping maintain a large ph
 
 
 #### Find me 💬
-* I try out most of my ideas over at [Codepen](https://codepen.io/pablowbk), some of which make they way to production, some do not :popcorn:
+* I try out most of my ideas over at [Codepen](https://codepen.io/pablowbk). :popcorn:
 * There are a couple of posts on [Dev.to](https://dev.to/pablowbk)'s platform.
 * You can follow me on [twitter](https://twitter.com/wbkpablo).
 * [LinkedIn](http://linkedin.com/in/pablowbk) is also up.
