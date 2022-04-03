@@ -4,7 +4,7 @@ When I'm not tending to my family, you'd normally find me dabbling around button
 
 
 #### Right now :fire:
-I am working as a freelance dev for a local company, helping maintain a large php-based application. I also collaborate with [Chingu's Facilitators Team](https://chingu.io), helping with code reviews from newcomers to the platform.
+I am working as a frontend dev for an agency, using React + TS and Next.js framework. I also collaborate with [Chingu's Facilitators Team](https://chingu.io), helping with code reviews from newcomers to the platform.
 
 
 #### Find me 💬
