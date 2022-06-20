@@ -12,6 +12,7 @@ I am working as a frontend dev for an agency, using React + TS and Next.js frame
 * Wrote a couple of posts on [Dev.to](https://dev.to/pablowbk)'s platform.
 * You can follow me on [twitter](https://twitter.com/wbkpablo).
 * [LinkedIn](http://linkedin.com/in/pablowbk) is also up.
+* Professional work is currently beign tracked in [Gitlab](https://gitlab.com/pablo.weisbek)
 <!--
 **pablowbk/pablowbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
