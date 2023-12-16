@@ -4,7 +4,7 @@ When I'm not tending to my family, you'd normally find me dabbling around button
 
 
 #### Right now :fire:
-I am working as a frontend dev for an agency, using React + TS and Next.js framework. I also collaborate with [Chingu's Facilitators Team](https://chingu.io), helping with code reviews from newcomers to the platform.
+I am working as a frontend dev for Conexa (arg).
 
 
 #### Find me 💬
@@ -12,7 +12,7 @@ I am working as a frontend dev for an agency, using React + TS and Next.js frame
 * Wrote a couple of posts on [Dev.to](https://dev.to/pablowbk)'s platform.
 * You can follow me on [twitter](https://twitter.com/wbkpablo).
 * [LinkedIn](http://linkedin.com/in/pablowbk) is also up.
-* Professional work is currently beign tracked in [Gitlab](https://gitlab.com/pablo.weisbek)
+
 <!--
 **pablowbk/pablowbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
